@@ -1,0 +1,8 @@
+# SIEM
+
+This directory contains labs related to Security Information and Event Management (SIEM) platforms.
+
+Current technologies:
+- Wazuh
+- Splunk (planned)
+- Microsoft Sentinel (planned)
