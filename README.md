@@ -15,15 +15,6 @@ I'm currently focused on:
 My goal is to obtain my first position as a Junior Cybersecurity Analyst.
 
 ## Skills
-
-## Education & Certifications
-
-- Zero Day Cybersecurity Master
-- Edutin Academy – IT Infrastructure & Networking Specialist
-
-- Currently preparing for:
-  - Google Cybersecurity
-  - CompTIA Security+
  
 ### Networking
 - TCP/IP
@@ -54,6 +45,15 @@ My goal is to obtain my first position as a Junior Cybersecurity Analyst.
 - Maigret
 - Google Dorks
 - Whois
+
+## Education & Certifications
+
+- Zero Day Cybersecurity Master
+- Edutin Academy – IT Infrastructure & Networking Specialist
+
+- Currently preparing for:
+  - Google Cybersecurity
+  - CompTIA Security+
 
 ## Repository Structure
 - SIEM
